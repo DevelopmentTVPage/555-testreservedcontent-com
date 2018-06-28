@@ -1,0 +1,25 @@
+{
+    "title": "Dynu",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1498758430",
+    "date_modified": "1521916509",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "video_type": null,
+    "id": "102255501",
+    "loginId": "1758904",
+    "entityType": "5",
+    "titleTextEncoded": "Dynu",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}
