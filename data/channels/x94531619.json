@@ -1,0 +1,43 @@
+{
+    "title": "Test D",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1495683967",
+    "date_modified": "1502839281",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "video_type": null,
+    "id": "94531619",
+    "loginId": "1758904",
+    "entityType": "5",
+    "titleTextEncoded": "Test-D",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "name": "14",
+                "add": "videos",
+                "conditions": {
+                    "order": "conversion_score",
+                    "keyword": "",
+                    "page": true,
+                    "limit": true
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {}
+                },
+                "options": {},
+                "extras": {}
+            }
+        ]
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}
